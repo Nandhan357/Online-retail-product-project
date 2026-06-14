@@ -134,6 +134,6 @@ pip install pandas numpy matplotlib seaborn
 
 ## Author
 
-Nandhan
+Nandhan A S
 
 Aspiring Data Analyst | Python | Pandas | Data Visualization
