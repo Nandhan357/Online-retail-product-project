@@ -146,7 +146,13 @@ Aspiring Data Analyst | Python | Pandas | Data Visualization
 
 
 ### Top 10 Products by Sales
-![Top Products](top_products.png)
+<img width="1020" height="596" alt="top_10" src="https://github.com/user-attachments/assets/0eca998a-5011-49a3-8eb1-21f7cc55beb7" />
+
 
 ### Country-wise Revenue
-![Country Revenue](country_revenue.png)
+<img width="947" height="616" alt="total_revenue_over_time" src="https://github.com/user-attachments/assets/b4320dd3-b9e7-454c-a439-4d591a9dafe0" />
+
+### Quarterly Revenue
+<img width="612" height="511" alt="Quarterly_revenue" src="https://github.com/user-attachments/assets/785f91d4-3580-46f5-8400-3d4a0bf7b6ed" />
+
+
