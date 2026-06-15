@@ -137,3 +137,16 @@ pip install pandas numpy matplotlib seaborn
 Nandhan A S
 
 Aspiring Data Analyst | Python | Pandas | Data Visualization
+
+## Key Visualizations
+
+### Monthly Revenue Trend
+<img width="1021" height="522" alt="monthly_revenue" src="https://github.com/user-attachments/assets/ad354e87-ce1c-44a0-a672-b7d3ab6ab031" />
+
+
+
+### Top 10 Products by Sales
+![Top Products](top_products.png)
+
+### Country-wise Revenue
+![Country Revenue](country_revenue.png)
